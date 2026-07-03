@@ -1,4 +1,4 @@
-# 
+# Professional AI Resume Builder tools. Featuring AI-ethics and chatbot-integration — optimized for maximum performance.
 
 
 
